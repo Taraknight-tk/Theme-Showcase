@@ -9,7 +9,7 @@ import SwiftUI
 struct ThemeShowcaseApp: App {
     var body: some Scene {
         WindowGroup {
-            ThemeShowcaseView()
+            ThemeHomeView()
         }
     }
 }
